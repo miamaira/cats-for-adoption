@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(252, 228, 184);
+}
+
+h1{
+    font-size: 45px;
+    color: rgb(201, 139, 24);
+    margin: 50px 0 40px 0;
+    text-align: center;
+    background-color: rgb(252, 228, 184);
+}
+.navigation_links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+    background-color: rgb(250, 238, 215);
+}
+.bordered_img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    background-color: rgb(250, 238, 215);
+}
+h2{
+    font-size: 20px;
+    color: rgb(201, 139, 24);
+}
+img{
+    width: 280px;
+    height: 180px;
+    border: 5px solid rgb(250, 238, 215);
+    border-radius: 8px;
+}
+footer{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
